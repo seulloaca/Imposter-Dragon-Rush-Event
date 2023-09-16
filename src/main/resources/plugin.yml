@@ -1,0 +1,8 @@
+name: ImposterDragonRush
+version: ${project.version}
+main: tech.sebazcrc.imposterdragonrush.Main
+api-version: 1.16
+authors: [SebazCRC]
+commands:
+  idr:
+    aliases: [imposterdragonrush]
